@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419652040797",
+    "project_id": "crudexamen-b02d9",
+    "storage_bucket": "crudexamen-b02d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419652040797:android:f564c13541eff115c535b4",
+        "android_client_info": {
+          "package_name": "com.appbancaria.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNqRpQyNX3CTJotuRZ2SssoJdn3VWDLWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
